@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **preethibijoy02@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10r6xgBXJu-M9BeCr-NfxKibXZQtmnhp3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10blzOLjIg6PMf3CRTY5Acn2JRhNiPF4e/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
