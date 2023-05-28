@@ -1,6 +1,6 @@
 [![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)](https://PreethiBijoy.io)
 <h1 align="center">Hi 👋, I'm Preethi</h1>
-<h3 align="center">An undergraduate student of Information Technology and an aspiring full stack developer 👩‍💻.</h3>
+<h3 align="center">An undergraduate student of Information Technology and an aspiring Machine Learning enthusiast with a passion for leveraging machine learning to drive innovation and solve complex problems 👩‍💻.</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif?format=1000w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethibijoy&label=Profile%20views&color=0e75b6&style=flat" alt="preethibijoy" /> </p>
